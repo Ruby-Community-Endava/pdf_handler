@@ -1,4 +1,5 @@
 # PDF Handler - PoC
+Just a simple PoC exploring different alternatives to manipulate PDF files.
 
 ## Libraries
 
